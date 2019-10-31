@@ -26,7 +26,7 @@ End Sub
      style="float: left; margin-right: 100px;" />  
  ***Procedure Box*** drop down list  , displays  list of procedures we can add to our form to perform certain tasks(click event or mouse over event etc.,)  
  **Image of Our Procedure Events Which we can use for our form:**
- * It's just a sample image,we have more functions *
+ *It's just a sample image,we have more functions*
  <img src="./Images/procedure.jpg"
      alt="Procedure Image"
      style="float: left; margin-right: 100px;" />  
