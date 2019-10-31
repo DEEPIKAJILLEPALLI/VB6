@@ -1,4 +1,4 @@
-#Glimpse Of Tool Box Controls  
+# Glimpse Of Tool Box Controls  
 
 
 <img src="./Images/ToolBox.PNG"
@@ -26,10 +26,11 @@ End Sub
      alt="InputDemoOutput Image"
      style="float: left; margin-right: 100px;" />  
      
-######Example 2
+###### Example 2  
+
 <img src="./Images/PasswordForm.PNG"
      alt="PasswordForm Image"
-     style="float: left; margin-right: 100px;" />    
+     style="float: left; margin-right: 10px;" />    
      
 ```vb
 Private Sub pswd_Click()
@@ -38,8 +39,8 @@ Private Sub pswd_Click()
  MsgBox ("Your password is: " & EnteredPassword)
 End Sub
 ```
-####Output  
+#### Output  
 <img src="./Images/PasswordFormOutput.PNG"
      alt="PasswordFormOutput Image"
-     style="float: left; margin-right: 100px;" />  
+     style="float: left; margin-right:10px;" />  
      
