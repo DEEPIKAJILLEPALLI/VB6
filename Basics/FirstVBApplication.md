@@ -13,3 +13,11 @@ Print 5 * 4
 
 End Sub
  ```
+ 
+ ***Object Box*** drop down list  , displays  list of objects that are associated with your form.  
+ ***Procedure Box*** drop down list  , displays  list of procedures we can add to our form to perform certain tasks(click event or mouse over event etc.,)  
+ 
+ - The Content between the `Private Sub Form_Load()` and `End sub` is displayed when you run the program.  
+     - **Click f5** to run the Program
+ -  `Form1.Show` is used to show the form1 content.  
+ -  `Print` is used to display content on Output Screen.
