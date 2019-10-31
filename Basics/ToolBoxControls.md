@@ -24,4 +24,22 @@ End Sub
 ####Output  
 <img src="./Images/InputDemoOutput.PNG"
      alt="InputDemoOutput Image"
+     style="float: left; margin-right: 100px;" />  
+     
+######Example 2
+<img src="./Images/PasswordForm.PNG"
+     alt="PasswordForm Image"
      style="float: left; margin-right: 100px;" />    
+     
+```vb
+Private Sub pswd_Click()
+ Dim EnteredPassword As String
+ EnteredPassword = password.Text
+ MsgBox ("Your password is: " & EnteredPassword)
+End Sub
+```
+####Output  
+<img src="./Images/PasswordFormOutput.PNG"
+     alt="PasswordFormOutput Image"
+     style="float: left; margin-right: 100px;" />  
+     
