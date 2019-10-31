@@ -36,6 +36,7 @@ End Sub
  -  `Form1.Show` is used to show the form1 content.  
  -  `Print` is used to display content on Output Screen.
  
+>###### To add Comments in VB use single-quote(')
  ###### Example 2
  ``` vb
  Private Sub Form_Load()
@@ -45,6 +46,7 @@ End Sub
  variabe3 = "Learning"
  variabe4 = "VB"
  ConcatinationDemo.Show
+  'Concatination Demo
   Print "You can Do concatination using + and & "
   Print "Using +"
   Print variabe1 + " " + variabe2 + " " + variabe3 + " " + variabe4
