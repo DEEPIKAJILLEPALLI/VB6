@@ -76,7 +76,8 @@ Private Sub Label1_Click()
  Print "change text Color"
 End Sub
   ```
-    ##### Output:
+  
+ ##### Output:
  <img src="./Images/UI_output.PNG"
      alt="UI_output"
      style="float: left; margin-right: 100px;" />
