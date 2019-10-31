@@ -19,7 +19,17 @@ End Sub
      style="float: left; margin-right: 100px;" />
  
  ***Object Box*** drop down list  , displays  list of objects that are associated with your form.  
+ **Image of Our Form Objects:**
+ *As of now we have only one object i.e; **Form** so, we got only one dropdown *
+ <img src="./Images/Objects.jpg"
+     alt="Objects Image"
+     style="float: left; margin-right: 100px;" />  
  ***Procedure Box*** drop down list  , displays  list of procedures we can add to our form to perform certain tasks(click event or mouse over event etc.,)  
+ **Image of Our Procedure Events Which we can use for our form:**
+ * It's just a sample image,we have more functions *
+ <img src="./Images/procedure.jpg"
+     alt="Procedure Image"
+     style="float: left; margin-right: 100px;" />  
  
  - The Content between the `Private Sub Form_Load()` and `End sub` is displayed when you run the program.  
      - **Click f5** to run the Program
