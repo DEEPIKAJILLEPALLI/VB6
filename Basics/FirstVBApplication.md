@@ -50,7 +50,7 @@ End Sub
       
  ###### Example 3
   *This is a demo to change change background and fore ground color of the form with click event handlers and a simple label Message*
-   <img src="./Images/Form2.PNG"
+   <img src="./Images/UIForm.PNG"
      alt="Form1 Image"
      style="float: left; margin-right: 100px;" />
   ```vb
@@ -76,5 +76,9 @@ Private Sub Label1_Click()
  Print "change text Color"
 End Sub
   ```
+    ##### Output:
+ <img src="./Images/UI_output.PNG"
+     alt="UI_output"
+     style="float: left; margin-right: 100px;" />
      
      
