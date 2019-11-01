@@ -20,8 +20,8 @@
 * Literals are values that you assign to data.  
 * In some cases, we need to add a suffix behind a literal so that VB can handle the calculation more accurately.
 * **Eg:**   number=3.89! for Single Data Type  
-<img src="./Images/Non-NumericDT.PNG"
-     alt="Non-NumericDataType Image"
+<img src="./Images/Suffix.PNG"
+     alt="Suffix Image"
      style="float: left; margin-right: 100px;" />  
 ##### Variables  
 > Naming Convention  
@@ -69,4 +69,9 @@ Const Name As String = "DeepikaRuth"
 > Assigning Values to Variables  
 
 `Variable=Expression`  
-**Note:**  We already Used Variable assigning in our Previous examples of  **FirstVBApplication.md**
+**Note:**  We already Used Variable assigning in our Previous examples of  **FirstVBApplication.md**  
+**Arithmetic Operators in VB**  
+<img src="./Images/Operators.PNG"
+     alt="Operators Image"
+     style="float: left; margin-right: 100px;" />  
+
