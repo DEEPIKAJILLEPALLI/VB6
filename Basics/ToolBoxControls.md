@@ -78,8 +78,10 @@ End Sub
      style="float: left; margin-right:10px;" />  
      
 #### LIST BOX  
-     * List Box is used to present a list of items where the user can click and select the items from the list.  
-     * To add items to the list, we can use the **AddItem method**.  
+
+  * List Box is used to present a list of items where the user can click and select the items from the list.  
+  * To add items to the list, we can use the **AddItem method**.  
+     
 ###### ListBox Form  
      
 <img src="./Images/ListBoxForm.PNG"
@@ -124,7 +126,7 @@ End Sub
     End Sub  
  ```  
 #### Output  
-<img src="./Images/ComboBoxFormOutput.PNG"
+<img src="./Images/ComboBoxOutput.PNG"
      alt="ComboBoxFormOutput Image"
      style="float: left; margin-right:10px;" />  
 #### CHECK BOX  
@@ -181,4 +183,38 @@ End Sub
 #### Output  
 <img src="./Images/OptionButtonFormOutput.PNG"
      alt="OptionButtonFormOutput Image"
+     style="float: left; margin-right:10px;" />  
+#### TIMER  
+* The Timer control is a control that is only used by the developer, it is invisible during runtime and it does not allow the user to interact with it.  
+* The Timer's Interval property determine how frequent the timer changes.  
+* A value of 1 is 1 milliseconds which means a value of 1000 represents 1 second. 
+###### TIMER FORM  
+<img src="./Images/TimerForm.PNG"
+     alt="TimerForm Image"
+     style="float: left; margin-right:10px;" />  
+     
+```vb  
+   Dim number As Integer
+Private Sub Form_Load()
+    Text1.Text = 0
+    number = 0
+    Timer1.Enabled = False
+End Sub
+
+Private Sub Start_Click()
+    Timer1.Enabled = True
+End Sub
+
+Private Sub Stop_Click()
+    Timer1.Enabled = False
+End Sub
+
+Private Sub Timer1_Timer()
+    number = number + 1
+    Text1.Text = number
+End Sub
+ ```  
+#### Output  
+<img src="./Images/TimerFormOutput.PNG"
+     alt="TimerFormOutput Image"
      style="float: left; margin-right:10px;" />  
