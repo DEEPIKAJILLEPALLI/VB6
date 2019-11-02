@@ -1,11 +1,11 @@
  * Decision making process is an important part of any programming Language.  
  Because, it can help to solve practical problems intelligently with user Interaction.
  ##### Conditional Operators 
-  <img src="./Images/Operators/Cop.PNG"
+  <img src="./Images/DataTypes/Cop.PNG"
      alt="Conditional Operators Image"
      style="float: left; margin-right: 100px;" />  
  ##### Logical Operators  
- <img src="./Images/Operators/LOP.PNG"
+ <img src="./Images/DataTypes/LOP.PNG"
      alt="Logical Operators Image"
      style="float: left; margin-right: 100px;" />  
  
@@ -26,7 +26,7 @@ End If
 
 **Guess Game** 
 ##### Guess Form 
- <img src="./Images/Operators/GuessGame.PNG"
+ <img src="./Images/DataTypes/GuessGame.PNG"
      alt="Logical Operators Image"
      style="float: left; margin-right: 100px;" />  
 
@@ -63,15 +63,15 @@ End Sub
 
 ```  
 ##### Output  
- <img src="./Images/Operators/op1.PNG"
+ <img src="./Images/DataTypes/op1.PNG"
      alt="High Guess Image"
      style="float: left; margin-right: 100px;" /> 
      
- <img src="./Images/Operators/op1.PNG"
+ <img src="./Images/DataTypes/op1.PNG"
      alt="High Guess Image"
      style="float: left; margin-right: 100px;" /> 
      
- <img src="./Images/Operators/op3.PNG"
+ <img src="./Images/DataTypes/op3.PNG"
      alt="Correct Guess Image"
      style="float: left; margin-right: 100px;" />  
  #### IIf() Function  
