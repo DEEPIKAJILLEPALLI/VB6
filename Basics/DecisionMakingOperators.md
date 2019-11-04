@@ -175,4 +175,40 @@ End Sub
      style="float: left; margin-right: 100px;" />  
 <img src="./Images/DataTypes/GGSCop3.PNG"
      alt="GuessGame OP"
-     style="float: left; margin-right: 100px;" /> 
+     style="float: left; margin-right: 100px;" />   
+### Looping  
+* *looping* can be use when we a program to run repeatedly until a condition or a set of conditions is met.
+* Kinds of Looping:
+  * the Do...Loop 
+   ```vb
+ 	Do While condition 
+ 	 'one or more VB statements 
+	Loop
+	(OR)
+	Do
+ 	 'one or more VB statements 
+ 	Loop While condition 
+	(OR)
+	 Do Until condition 
+ 	 'one or more VB statements 
+ 	Loop 
+	(OR)
+	Do
+	'one or more VB statements
+	Loop Until condition 
+	```
+  * the For.......Next loop
+  	```vb 
+	For counter=startNumber to endNumber (Step increment)
+
+	 'One or more VB statements 
+	
+	Next 
+ 	 ```
+  * the While.....Wend Loop
+    ```vb
+    While condition
+  	'one or more VB statements
+    Wend
+    ```
+
