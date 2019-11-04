@@ -101,22 +101,24 @@ End Sub
      alt="Maximun and Minimum Number output"
      style="float: left; margin-right: 100px;" />  
 #### Select Case  
-* *Select Case* control structure can handle conditions with multiple outcomes in an easier manner than the ***If...Then...ElseIf*** control structure.
+* *Select Case* control structure can handle conditions with multiple outcomes in an easier manner than the ***If...Then...ElseIf*** control structure.  
 > syntax  
+
 ```vb
 Select Case expression
  Case case1
-	 'one or  more VB statements
-	Case case2
+	 'one or  more VB statements  
+ Case case2
 	'one or more VB Statements
  Case Else
  'one or more VB Statements
 End Select
 ```
 > Guess Game  
+
 ####Form  
 <img src="./Images/DataTypes/GGSC.PNG"
-     alt="Maximun and Minimum Number Form"
+     alt="Maximum and Minimum Number Form"
      style="float: left; margin-right: 100px;" /> 
 ```vb
 Dim NumberTobeGuessed As Integer
@@ -162,18 +164,15 @@ Label2.ForeColor = RGB(255, 165, 0)
 End Sub
 ```  
 #### Output
-<img src="./Images/DataTypes/GGSC.PNG"
-     alt="GuessGame Form"
-     style="float: left; margin-right: 100px;" />
 <img src="./Images/DataTypes/GGSCH.PNG"
      alt="GuessGame OP"
-     style="float: left; margin-right: 100px;" />
+     style="float: left; margin-right: 100px;" />  
 <img src="./Images/DataTypes/GGSCop1.PNG"
      alt="GuessGame OP"
-     style="float: left; margin-right: 100px;" /> 
+     style="float: left; margin-right: 100px;" />  
 <img src="./Images/DataTypes/GGSCalert.PNG"
      alt="GuessGame OP"
-     style="float: left; margin-right: 100px;" />
+     style="float: left; margin-right: 100px;" />  
 <img src="./Images/DataTypes/GGSCop3.PNG"
      alt="GuessGame OP"
      style="float: left; margin-right: 100px;" /> 
