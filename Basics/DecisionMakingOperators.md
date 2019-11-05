@@ -237,6 +237,6 @@ Private Sub Form_Load()
 End Sub
 ```  
 #### Output  
-<img src="./Images/DataTypes/Loops.PNG"
+<img src="./LoopingFiles/Loops.PNG"
      alt="Loops Demo Image"
      style="float: left; margin-right: 100px;" />  
