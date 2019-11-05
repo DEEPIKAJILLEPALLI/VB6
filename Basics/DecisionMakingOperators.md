@@ -211,4 +211,32 @@ End Sub
   	'one or more VB statements
     Wend
     ```
-
+#### Example
+```vb
+Private Sub Form_Load()
+    Dim Count As Integer
+    Dim for_counter As Integer
+    Dim while_count As Integer
+    Dim counter As Integer
+    Do_Count = 5
+    for_counter = 5
+    while_count = 5
+    Do While Do_Count > 0
+    List1.AddItem "Do While loop"
+    Do_Count = Do_Count - 1
+    Loop
+    
+    For counter = 1 To for_counter Step 1
+    List1.AddItem "For loop"
+    Next
+    
+    While while_count > 0
+    List1.AddItem "While loop"
+    while_count = while_count - 1
+    Wend
+End Sub
+```  
+#### Output  
+<img src="./Images/DataTypes/Loops.PNG"
+     alt="Loops Demo Image"
+     style="float: left; margin-right: 100px;" />  
